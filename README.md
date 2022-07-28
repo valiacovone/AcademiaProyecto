@@ -1,6 +1,6 @@
 # AcademiaProyecto
 
 Integrantes:
-Ana Fionda
-Analia Sabatino
+Ana Fionda / 
+Analia Sabatino /
 Valeria Iacovone
